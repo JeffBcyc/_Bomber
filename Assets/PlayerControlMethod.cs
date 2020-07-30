@@ -3,6 +3,11 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Interactions;
 
+
+// changing this file 
+// test git vsc
+
+
 public class PlayerControlMethod : MonoBehaviour
 {
     private Transform _camTransform;
@@ -43,6 +48,8 @@ public class PlayerControlMethod : MonoBehaviour
         Move(_desiredDirection);
         Turn(_desiredDirection);
 
+        
+        
         if (Mouse.current.rightButton.wasPressedThisFrame)
         {
             Debug.Log("rightmouse clicked");
