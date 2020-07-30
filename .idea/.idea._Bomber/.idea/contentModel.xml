@@ -7,9 +7,6 @@
       <e p="_Bomber.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="CharacterStats.cs" t="Include" />
-        <e p="EnemyStats.cs" t="Include" />
-        <e p="HealthBar.cs" t="Include" />
         <e p="Samples" t="Include">
           <e p="Input System" t="Include">
             <e p="1.0.0" t="Include">
@@ -25,8 +22,12 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CameraController.cs" t="Include" />
+          <e p="CharacterStats.cs" t="Include" />
+          <e p="EnemyStats.cs" t="Include" />
           <e p="ExampleClass.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
           <e p="PlayerControlMethod.cs" t="Include" />
+          <e p="PlayerStats.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
