@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e894ec6-8c64-4cf5-bfaa-acbd64a2cb2f" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="1e894ec6-8c64-4cf5-bfaa-acbd64a2cb2f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,8 +21,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/PlayerControlMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///PlayerControlMethod.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingPlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///PlayerControlMethod.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleController_UsingActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///PlayerControlMethod.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ExampleClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputActionAsset.cs" root0="SKIP_HIGHLIGHTING" />
@@ -81,6 +85,7 @@
       <workItem from="1596065253031" duration="24495000" />
       <workItem from="1596136202439" duration="1421000" />
       <workItem from="1596137794581" duration="79000" />
+      <workItem from="1596137992373" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1596137056772</created>
@@ -89,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596137056772</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change 1">
+      <created>1596138296565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596138296565</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
@@ -110,21 +122,26 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="change 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="change 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="633" y="275" key="#Notifications" timestamp="1596137857299">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="633" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596137857299" />
+    <state x="579" y="224" key="#TODO" timestamp="1596138234202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="224" key="#TODO/0.0.1536.824@0.0.1536.824" timestamp="1596138234202" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596078351970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1596078351970" />
-    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1596137205948">
+    <state x="418" y="162" width="750" height="539" key="CommitChangelistDialog2" timestamp="1596138295794">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596137205948" />
+    <state x="418" y="162" width="750" height="539" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596138295794" />
     <state x="647" y="310" key="Github.ShareDialog" timestamp="1596137845697">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -209,6 +226,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="634" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1596136317280" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596138020199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596138020199" />
     <state x="346" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596066464454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
