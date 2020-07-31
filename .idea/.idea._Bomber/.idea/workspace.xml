@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="292bc3d9-2351-4585-bbdc-246555e1b9af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea._Bomber/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea._Bomber/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea._Bomber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea._Bomber/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="292bc3d9-2351-4585-bbdc-246555e1b9af" name="Default Changelist" comment="changed folder hierarchy">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Sandbox.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Sandbox.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +38,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Sandbox.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExampleClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Samples/Input System/1.0.0/Simple Demo/SimpleControls.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControlMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Sandbox.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,6 +60,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStats.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterStats.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerStats.cs" />
       </list>
     </option>
   </component>
@@ -98,7 +101,7 @@
       <updated>1596141466616</updated>
       <workItem from="1596141473245" duration="7221000" />
       <workItem from="1596152706984" duration="204000" />
-      <workItem from="1596152979615" duration="340000" />
+      <workItem from="1596152979615" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="reordering file locations">
       <created>1596141718356</created>
@@ -114,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596151981929</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added functioning health bar">
+      <created>1596153345612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596153345612</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed folder hierarchy">
+      <created>1596153372295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596153372295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
@@ -147,20 +164,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="reordering file locations" />
     <MESSAGE value="adding enemy feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding enemy feature" />
+    <MESSAGE value="added functioning health bar" />
+    <MESSAGE value="changed folder hierarchy" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed folder hierarchy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1101" y="392" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596152633238">
+    <state x="1101" y="392" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596153385793">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1101" y="392" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/3840.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1596152633238" />
+    <state x="1101" y="392" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/3840.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1596153385793" />
     <state x="1049" y="425" key="RiderGenerateDialog" timestamp="1596147503939">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1049" y="425" key="RiderGenerateDialog/3840.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1596147503939" />
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1596151983668">
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1596153416680">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/3840.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1596151983668" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/3840.0.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1596153416680" />
   </component>
 </project>
